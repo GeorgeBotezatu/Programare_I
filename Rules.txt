@@ -12,3 +12,5 @@
 git stauts
 git add nume fisier
 git commit -m"mesaj"
+git push pun modificari pe site
+git pull aduc modificari de pe site
