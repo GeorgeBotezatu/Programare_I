@@ -8,4 +8,7 @@
 8.wujsajsdajsadja
 9.JSFASADSASDA.snkskDOSMSA NLWRQ 	B l SL 
 10.wqroknosOIWQWOK'sd,m fd d enFIO N/s ;cmSDIWmsMBDFNXMN;SDFsmnWNSJDNWNNDBBFG
-
+ git clone link
+git stauts
+git add nume fisier
+git commit -m"mesaj"
